@@ -1,0 +1,12 @@
+//program using Unary Operator
+
+public class UnaryEx{
+        public static void main(string args[]){
+                int num1=25
+     		system.out.println(num1);
+		//pre increment
+		int num2=num1++
+		system.out.println(num1+" "+num2);                                           
+		//system.out.println(num2);
+}
+}
